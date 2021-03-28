@@ -1,5 +1,5 @@
 ### Hi there 👋, Neel here.
-![](http://gph.is/2ehdc0q)
+![](./gif/giphy.webp)
 
 I am a sophomore student currently pursuing B.Tech in CSE. I like to work with Golang. It is my primary language of choice. I am also passionate about blockchains and distributed systems. A typical backend dev.
 
