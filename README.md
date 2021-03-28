@@ -24,5 +24,3 @@ Skills: Go / JS / React / Svelte / Postgres / RESTful services / gRPC
 ![GitHub metrics](https://metrics.lecoq.io/neel229)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=neel229)  
-
-![Profile views](https://gpvc.arturio.dev/neel229)  
